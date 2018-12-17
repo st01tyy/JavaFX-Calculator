@@ -1,37 +1,47 @@
 # JavaFX-Calculator
 
 
-¡¤INSTALL
-½«´úÂëÏÂÔØºóµ¼ÈëEclipseµÈIDEÖÐÔËÐÐ£¬»òÖ±½ÓÔËÐÐ¿ÉÖ´ÐÐjar°ü£¬±ØÐëÔÚ×°ÓÐjre1.8ÒÔÉÏµÄÏµÍ³ÖÐÔËÐÐ¡£
+Â·INSTALL
 
-¡¤FAQ
-1.¸Ã¼ÆËãÆ÷ÓµÓÐÄÄÐ©¹¦ÄÜ£¿
-   Ä¿Ç°¼ÆËãÆ÷Ö§³Ö¼Ó¡¢¼õ¡¢³Ë¡¢³ýµÄËÄÔòÔËËã£¬ÆäËü¹¦ÄÜÉÐÔÚ¿ª·¢ÖÐ¡£
-2.¼ÆËãÆ÷½á¹û²»×¼È·£¿
-   ¾­µ÷²éÊÇÓÉÓÚJavaÓïÑÔµÄ¸¡µãÊý¾«¶ÈÎÊÌâÔì³ÉµÄ£¬½â¾ö·½°¸ÈÔÔÚ¿ª·¢ÖÐ¡£
+å°†ä»£ç ä¸‹è½½åŽå¯¼å…¥Eclipseç­‰IDEä¸­è¿è¡Œï¼Œæˆ–ç›´æŽ¥è¿è¡Œå¯æ‰§è¡ŒjaråŒ…ï¼Œå¿…é¡»åœ¨è£…æœ‰jre1.8ä»¥ä¸Šçš„ç³»ç»Ÿä¸­è¿è¡Œã€‚
 
-¡¤NEWS
-2018.12.17-ÏîÄ¿·¢Æð
+Â·FAQ
 
-¡¤TAGS
-Ä¿Ç°ÔÝÊ±ÎÞ±êÇ©¡£
+1.è¯¥è®¡ç®—å™¨æ‹¥æœ‰å“ªäº›åŠŸèƒ½ï¼Ÿ
+   ç›®å‰è®¡ç®—å™¨æ”¯æŒåŠ ã€å‡ã€ä¹˜ã€é™¤çš„å››åˆ™è¿ç®—ï¼Œå…¶å®ƒåŠŸèƒ½å°šåœ¨å¼€å‘ä¸­ã€‚
+   
+2.è®¡ç®—å™¨ç»“æžœä¸å‡†ç¡®ï¼Ÿ
+   ç»è°ƒæŸ¥æ˜¯ç”±äºŽJavaè¯­è¨€çš„æµ®ç‚¹æ•°ç²¾åº¦é—®é¢˜é€ æˆçš„ï¼Œè§£å†³æ–¹æ¡ˆä»åœ¨å¼€å‘ä¸­ã€‚
 
-¡¤CREDITS
+Â·NEWS
+
+2018.12.17-é¡¹ç›®å‘èµ·
+
+Â·TAGS
+
+ç›®å‰æš‚æ—¶æ— æ ‡ç­¾ã€‚
+
+Â·CREDITS
+
 st01tyy-Ruben
 
-¡¤HISTORY
-2018.12.17-·¢²¼1.0°æ±¾
+Â·HISTORY
 
-¡¤COPYING
+2018.12.17-å‘å¸ƒ1.0ç‰ˆæœ¬
+
+Â·COPYING
+
 GPL-3.0
 
-¡¤MANIFEST
-©À©¤core
-©¦      Expression.java
-©¦      Node.java
-©¦      Stack.java
-©¦
-©¸©¤page
+Â·MANIFEST
+```
+â”œâ”€core
+â”‚      Expression.java
+â”‚      Node.java
+â”‚      Stack.java
+â”‚
+â””â”€page
         EventHandlers.java
         Main.java
         MainPane.java
+ ```
